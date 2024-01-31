@@ -1,0 +1,301 @@
+{
+  "Área Administrativa | Coordenadorias": [
+    {
+      "nome": "Coordenadoria de Apoio ao Ensino (CAE)",
+      "email": [
+        "apoioensino.cl@ifes.edu.br"
+      ],
+      "servicos": [
+        "Suporte acadêmico aos alunos",
+        "Auxílio com matrícula, horário e local das aulas",
+        "Agendamento de laboratórios",
+        "Informações sobre programas de tutoria e apoio pedagógico"
+      ]
+    }
+  ],
+  "Área de Ensino | Coordenadorias": [
+    {
+      "nome": "Coordenadoria de Atendimento Multidisciplinar (CAM)",
+      "email": [
+        "assistenciaestudantil.col@ifes.edu.br"
+      ],
+      "telefone": [
+        "3723-1527"
+      ],
+      "servicos": [
+        "Suporte especializado para alunos com necessidades educacionais especiais",
+        "Atendimento psicopedagógico, orientação vocacional, adaptações curriculares",
+        "Suporte para alunos em vulnerabilidade socioeconômica (auxílio financeiro, alimentação, moradia, transporte)"
+      ]
+    },
+    {
+      "nome": "Coordenadoria de Biblioteca",
+      "email": [
+        "biblioteca.colatina@ifes.edu.br"
+      ],
+      "telefone": [
+        "3723-1555",
+        "3723-1507"
+      ],
+      "servicos": [
+        "Acervo de livros, periódicos, materiais multimídia, e acesso a bases de dados digitais",
+        "Espaços de estudo e salas de leitura",
+        "Empréstimo de materiais, pesquisa acadêmica, orientação na busca por informações",
+        "Funcionamento de segunda a sexta-feira, horário variável conforme período escolar"
+      ]
+    },
+    {
+      "nome": "Coordenadoria Geral de Ensino (CGEN)",
+      "servicos": [
+        "Coordenação de atividades acadêmicas gerais",
+        "Planejamento curricular, avaliação de desempenho dos alunos"
+      ]
+    },
+    {
+      "nome": "Coordenadoria - Eixo de Gestão e Negócios",
+      "email": [
+        "tecadm.col@ifes.edu.br",
+        "adm.col@ifes.edu.br"
+      ]
+    },
+    {
+      "nome": "Coordenadoria - Eixo de Informática",
+      "email": [
+        "tipi.col@ifes.edu.br",
+        "tmsi.col@ifes.edu.br",
+        "bsi.col@ifes.edu.br"
+      ],
+      "telefone": [
+        "3723-1598",
+        "3723-1599"
+      ]
+    },
+    {
+      "nome": "Coordenadoria - Eixo de Infraestrutura",
+      "email": [
+        "tecedif.col@ifes.edu.br",
+        "tima.col@ifes.edu.br",
+        "baru.col@ifes.edu.br"
+      ],
+      "telefone": [
+        "3723-1518"
+      ]
+    },
+    {
+      "nome": "Coordenadoria de Gestão Pedagógica (CGP)",
+      "servicos": [
+        "Desenvolvimento e implementação de práticas pedagógicas inovadoras",
+        "Melhoria da qualidade do ensino e da aprendizagem"
+      ]
+    },
+    {
+      "nome": "Coordenadoria de Registros Acadêmicos (CRA)",
+      "servicos": [
+        "Registro e controle das informações acadêmicas dos alunos",
+        "Incluindo matrículas, históricos escolares, certificados"
+      ]
+    }
+  ],
+  "Diretorias": [
+    {
+      "nome": "Diretoria de Ensino (DIREN)",
+      "email": [
+        "diren.col@ifes.edu.br"
+      ],
+      "servicos": [
+        "Controle das atividades relacionadas ao ensino",
+        "Supervisão da qualidade dos cursos oferecidos e cumprimento das diretrizes acadêmicas"
+      ]
+    }
+  ],
+  "Outros": [
+    {
+      "nome": "Enfermaria",
+      "email": [
+        "soniavioletti@ifes.edu.br"
+      ],
+      "telefone": [
+        "3723-1516",
+        "3723-1535",
+        "3723-1598",
+        "3723-1599",
+        "3723-1518",
+        "3723-1573",
+        "3723-1503",
+        "3723-1572",
+        "3723-1565",
+        "3723-1501",
+        "3723-1502",
+        "3723-1548"
+      ],
+      "servicos": [
+        "Serviços médicos básicos e de enfermagem",
+        "Atendimento de primeiros socorros, orientação em saúde",
+        "Atendimento em emergências médicas ou para consultas preventivas"
+      ]
+    },
+    {
+      "nome": "Cantina",
+      "servicos": [
+        "Espaço para refeições rápidas ou lanches entre as aulas",
+        "Funcionamento das 08:30 até às 20:30"
+      ]
+    },
+    {
+      "nome": "Lab Maker",
+      "servicos": [
+        "Espaço de criatividade para transformar ideias em projetos reais",
+        "Acesso a ferramentas de fabricação digital, aprendizado prático, inovação e colaboração"
+      ]
+    },
+    {
+      "nome": "Laboratório de Extensão e Desenvolvimento de Soluções (LEDS)",
+      "email": [
+        "leds.colatina@gmail.com"
+      ],
+      "servicos": [
+        "Promoção da interação entre a instituição de ensino e a comunidade",
+        "Busca de soluções para desafios locais através da aplicação do conhecimento acadêmico",
+        "Trabalho em projetos de extensão para atender às demandas da comunidade local"
+      ]
+    },
+    {
+      "nome": "Laboratório de Extensão em Tecnologias Educacionais e Robótica (LETER)",
+      "email": [
+        "leter.colatina@ifes.edu.br"
+      ],
+      "servicos": [
+        "Promoção da inclusão digital e acesso às Tecnologias de Informação e Comunicação",
+        "Estímulo ao pensamento computacional e à robótica educacional",
+        "Projetos, cursos, palestras, visitas técnicas e oficinas de robótica, especialmente para alunos de escolas públicas"
+      ]
+    },
+    {
+      "nome": "Núcleo de Arte e Cultura (NAC)",
+      "email": [
+        "nac.colatina@ifes.edu.br"
+      ],
+      "servicos": [
+        "Promoção de atividades culturais e artísticas na instituição",
+        "Exposições, apresentações artísticas, oficinas, participação em eventos culturais e grupos artísticos"
+      ]
+    },
+    {
+      "nome": "Núcleo de Apoio a Pessoas com Necessidades Específicas (NAPNE)",
+      "email": [
+        "napne.colatina@ifes.edu.br"
+      ],
+      "servicos": [
+        "Apoio a alunos com necessidades específicas",
+        "Promoção da inclusão e acessibilidade no ambiente acadêmico",
+        "Suporte pedagógico e recursos de acessibilidade"
+      ]
+    },
+    {
+      "nome": "Núcleo de Educação Ambiental (NEA)",
+      "email": [
+        "nea.colatina@ifes.edu.br"
+      ],
+      "servicos": [
+        "Estudo e conscientização sobre questões ambientais",
+        "Ações de preservação, educação ambiental e sustentabilidade",
+        "Participação em palestras, projetos de pesquisa, atividades de campo e campanhas educativas"
+      ]
+    },
+    {
+      "nome": "Núcleo de Estudos Afro-brasileiros e Indígenas (NEABI)",
+      "email": [
+        "neabi.colatina@ifes.edu.br"
+      ],
+      "telefone": [
+        "3723-1529"
+      ],
+      "servicos": [
+        "Foco em questões relacionadas aos estudos afro-brasileiros e indígenas",
+        "Promoção de ações de valorização da cultura afrodescendente e indígena",
+        "Participação em eventos, cursos, pesquisas"
+      ]
+    },
+    {
+      "nome": "Núcleo de Estudos e Pesquisas sobre Gênero e Sexualidade (NEPGENS)",
+      "email": [
+        "nepgens.colatina@ifes.edu.br"
+      ],
+      "servicos": [
+        "Estudo e pesquisa sobre questões de gênero, sexualidade e diversidade",
+        "Promoção da igualdade de gênero e combate à discriminação e violência baseadas em orientação sexual e identidade de gênero",
+        "Participação em palestras, debates, grupos de estudo, projetos de pesquisa"
+      ]
+    },
+    {
+      "nome": "Núcleo de Relações Internacionais (NRI)",
+      "email": [
+        "nri.colatina@ifes.edu.br"
+      ],
+      "servicos": [
+        "Estabelecimento de parcerias e intercâmbios acadêmicos com instituições estrangeiras",
+        "Apoio à mobilidade internacional de alunos e professores",
+        "Orientação sobre processos de intercâmbio, requisitos de visto, cursos no exterior"
+      ]
+    },
+    {
+      "nome": "Núcleo de Tecnologias Educacionais (NTE)",
+      "email": [
+        "nte.col@ifes.edu.br"
+      ],
+      "servicos": [
+        "Promoção do uso de tecnologias educacionais no processo de ensino e aprendizagem",
+        "Suporte técnico e pedagógico aos professores e alunos",
+        "Utilização de plataformas digitais de apoio ao ensino e ferramentas digitais"
+      ]
+    },
+    {
+      "nome": "Incubadora",
+      "email": [
+        "incubadora.col@ifes.edu.br"
+      ],
+      "servicos": [
+        "Suporte técnico, mentoria, capacitação e infraestrutura para incubação de empreendimentos",
+        "Auxílio na elaboração de planos de negócios, identificação de oportunidades de mercado, acesso a financiamento",
+        "Networking com empreendedores e investidores, promoção de eventos, workshops e programas de aceleração"
+      ]
+    },
+    {
+      "nome": "Robótica",
+      "email": [
+        "titasdarobotica@gmail.com"
+      ],
+      "servicos": [
+        "Estudo e desenvolvimento de sistemas robóticos",
+        "Oportunidade de projetar, construir e programar robôs para diferentes aplicações",
+        "Equipamento com uma variedade de plataformas de hardware e software, kits de robótica, sensores, controladores e ferramentas de programação"
+      ]
+    }
+  ],
+  "Informacoes Gerais": [
+    {
+      "nome": "Telefone Geral",
+      "telefone": [
+        "(27) 3723-1500"
+      ]
+    },
+    {
+      "nome": "Guarita",
+      "telefone": [
+        "(27) 3723-1512"
+      ]
+    },
+    {
+      "nome": "Recepcao",
+      "telefone": [
+        "(27) 3723-1500"
+      ]
+    },
+    {
+      "nome": "Horario de Funcionamento",
+      "servicos": [
+        "Abre às 07:00 e fecha às 22:00"
+      ]
+    }
+  ]
+}
