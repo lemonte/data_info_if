@@ -5,11 +5,11 @@
       "email": [
         "apoioensino.cl@ifes.edu.br"
       ],
+      "telefone": [
+        "3723-1513"
+      ],
       "servicos": [
-        "Suporte acadêmico aos alunos",
-        "Auxílio com matrícula, horário e local das aulas",
-        "Agendamento de laboratórios",
-        "Informações sobre programas de tutoria e apoio pedagógico"
+        "Este setor oferece suporte acadêmico aos alunos, auxiliando-os com questões relacionadas à matrícula, horário e local das aulas, agendamento de laboratórios. Também pode fornecer informações sobre programas de tutoria e apoio pedagógico, entre outros."
       ]
     }
   ],
@@ -20,12 +20,11 @@
         "assistenciaestudantil.col@ifes.edu.br"
       ],
       "telefone": [
-        "3723-1527"
+        "3723-1527",
+        "3723-1549"
       ],
       "servicos": [
-        "Suporte especializado para alunos com necessidades educacionais especiais",
-        "Atendimento psicopedagógico, orientação vocacional, adaptações curriculares",
-        "Suporte para alunos em vulnerabilidade socioeconômica (auxílio financeiro, alimentação, moradia, transporte)"
+        "Este setor oferece suporte especializado para alunos com necessidades educacionais especiais, incluindo atendimento psicopedagógico, orientação vocacional, adaptações curriculares, entre outros. Este setor também oferece suporte aos alunos em situação de vulnerabilidade socioeconômica, fornecendo auxílio financeiro, alimentação, moradia, transporte, entre outros. Os alunos podem solicitar benefícios sociais, orientação psicossocial, entre outros."
       ]
     },
     {
@@ -38,17 +37,16 @@
         "3723-1507"
       ],
       "servicos": [
-        "Acervo de livros, periódicos, materiais multimídia, e acesso a bases de dados digitais",
-        "Espaços de estudo e salas de leitura",
-        "Empréstimo de materiais, pesquisa acadêmica, orientação na busca por informações",
-        "Funcionamento de segunda a sexta-feira, horário variável conforme período escolar"
+        "Oferece um vasto acervo de livros, periódicos, materiais multimídia e acesso a bases de dados digitais para pesquisa acadêmica. Além disso, fornece espaços de estudo e salas de leitura. Os alunos podem utilizar a biblioteca para empréstimo de materiais, pesquisa acadêmica ou solicitar orientação na busca por informações. A biblioteca funciona de segunda a sexta-feira, das 08h às 20h, exceto durante o recesso escolar, quando o horário é das 08h às 17h. Ela está aberta para toda a comunidade. Os alunos podem fazer empréstimo domiciliar de até 3 títulos, após cadastro com matrícula e senha. A renovação pode ser feita presencialmente ou online. Livros técnicos têm prazo de devolução de 7 dias, enquanto livros literários têm prazo de 14 dias."
       ]
     },
     {
       "nome": "Coordenadoria Geral de Ensino (CGEN)",
       "servicos": [
-        "Coordenação de atividades acadêmicas gerais",
-        "Planejamento curricular, avaliação de desempenho dos alunos"
+        "Coordena atividades acadêmicas gerais, como planejamento curricular, avaliação de desempenho dos alunos, entre outros. Os alunos podem entrar em contato para esclarecer dúvidas sobre normas acadêmicas."
+      ],
+      "telefone": [
+        "3723-1516"
       ]
     },
     {
@@ -56,6 +54,9 @@
       "email": [
         "tecadm.col@ifes.edu.br",
         "adm.col@ifes.edu.br"
+      ],
+      "telefone": [
+        "3723-1535"
       ]
     },
     {
@@ -84,15 +85,31 @@
     {
       "nome": "Coordenadoria de Gestão Pedagógica (CGP)",
       "servicos": [
-        "Desenvolvimento e implementação de práticas pedagógicas inovadoras",
-        "Melhoria da qualidade do ensino e da aprendizagem"
+        "Auxilia no desenvolvimento e implementação de práticas pedagógicas inovadoras, promovendo a melhoria da qualidade do ensino e da aprendizagem."
+      ],
+      "email": [
+        "cgp.col@ifes.edu.br"
+      ],
+      "telefone": [
+        "3723-1573",
+        "3723-1503",
+        "3723-1572"
       ]
     },
     {
       "nome": "Coordenadoria de Registros Acadêmicos (CRA)",
       "servicos": [
-        "Registro e controle das informações acadêmicas dos alunos",
-        "Incluindo matrículas, históricos escolares, certificados"
+        "Responsável pelo registro e controle das informações acadêmicas dos alunos, incluindo matrículas, históricos escolares, certificados, entre outros."
+      ],
+      "email": [
+        "cracol.tecnico@ifes.edu.br",
+        "cracol.superior@ifes.edu.br",
+        "cracol.pos@ifes.edu.br",
+        "encceja.col@ifes.edu.br"
+      ],
+      "telefone": [
+        "3723-1565 ",
+        "3723-1501"
       ]
     }
   ],
@@ -103,8 +120,11 @@
         "diren.col@ifes.edu.br"
       ],
       "servicos": [
-        "Controle das atividades relacionadas ao ensino",
-        "Supervisão da qualidade dos cursos oferecidos e cumprimento das diretrizes acadêmicas"
+        "Controla as atividades relacionadas ao ensino, supervisiona a qualidade dos cursos oferecidos e o cumprimento das diretrizes acadêmicas. Os alunos podem obter informações sobre políticas acadêmicas, procedimentos de avaliação, entre outros."
+      ],
+
+      "telefone": [
+        "3723-1502"
       ]
     }
   ],
@@ -115,37 +135,25 @@
         "soniavioletti@ifes.edu.br"
       ],
       "telefone": [
-        "3723-1516",
-        "3723-1535",
-        "3723-1598",
-        "3723-1599",
-        "3723-1518",
-        "3723-1573",
-        "3723-1503",
-        "3723-1572",
-        "3723-1565",
-        "3723-1501",
-        "3723-1502",
         "3723-1548"
       ],
       "servicos": [
-        "Serviços médicos básicos e de enfermagem",
-        "Atendimento de primeiros socorros, orientação em saúde",
-        "Atendimento em emergências médicas ou para consultas preventivas"
+        "Oferece serviços médicos básicos e de enfermagem aos alunos, incluindo atendimento de primeiros socorros, orientação em saúde, entre outros. Os alunos podem utilizar os serviços em caso de emergências médicas ou para consultas preventivas."
       ]
     },
     {
       "nome": "Cantina",
       "servicos": [
-        "Espaço para refeições rápidas ou lanches entre as aulas",
-        "Funcionamento das 08:30 até às 20:30"
+        "Os alunos podem utilizar o espaço para refeições rápidas ou lanches entre as aulas. A cantina funciona das 08:30 até às 20:30."
+      ],
+      "telefone": [
+        "3723-1522"
       ]
     },
     {
       "nome": "Lab Maker",
       "servicos": [
-        "Espaço de criatividade para transformar ideias em projetos reais",
-        "Acesso a ferramentas de fabricação digital, aprendizado prático, inovação e colaboração"
+        "O Lab Maker é um espaço que incentiva a criatividade, onde os alunos podem transformar ideias em projetos reais. O laboratório oferece acesso a ferramentas de fabricação digital, promove o aprendizado prático e estimula a inovação e colaboração."
       ]
     },
     {
@@ -154,9 +162,7 @@
         "leds.colatina@gmail.com"
       ],
       "servicos": [
-        "Promoção da interação entre a instituição de ensino e a comunidade",
-        "Busca de soluções para desafios locais através da aplicação do conhecimento acadêmico",
-        "Trabalho em projetos de extensão para atender às demandas da comunidade local"
+        "O Leds é um programa de extensão que visa promover a interação entre a instituição de ensino e a comunidade, buscando soluções para desafios locais por meio da aplicação do conhecimento acadêmico. Nele, os alunos e professores podem trabalhar em projetos de extensão que visam atender às demandas da comunidade local."
       ]
     },
     {
@@ -165,9 +171,7 @@
         "leter.colatina@ifes.edu.br"
       ],
       "servicos": [
-        "Promoção da inclusão digital e acesso às Tecnologias de Informação e Comunicação",
-        "Estímulo ao pensamento computacional e à robótica educacional",
-        "Projetos, cursos, palestras, visitas técnicas e oficinas de robótica, especialmente para alunos de escolas públicas"
+        "O Leter é um programa de extensão que busca promover a inclusão digital através do acesso às Tecnologias de Informação e Comunicação, estimulando o pensamento computacional e a robótica educacional. Suas ações incluem projetos, cursos, palestras, visitas técnicas e oficinas de robótica, especialmente direcionados a alunos de escolas públicas. O objetivo é capacitar as pessoas para serem protagonistas do próprio aprendizado, contribuindo assim para o desenvolvimento da sociedade. Qualquer aluno pode participar do programa como voluntário ou bolsista."
       ]
     },
     {
@@ -175,9 +179,12 @@
       "email": [
         "nac.colatina@ifes.edu.br"
       ],
+
+      "telefone": [
+        "3723-1520"
+      ],
       "servicos": [
-        "Promoção de atividades culturais e artísticas na instituição",
-        "Exposições, apresentações artísticas, oficinas, participação em eventos culturais e grupos artísticos"
+        "Promove atividades culturais e artísticas na instituição, como exposições, apresentações artísticas, oficinas, entre outros. Os alunos podem participar de eventos culturais, grupos artísticos, entre outros."
       ]
     },
     {
@@ -185,10 +192,12 @@
       "email": [
         "napne.colatina@ifes.edu.br"
       ],
+
+      "telefone": [
+        "3723-1529"
+      ],
       "servicos": [
-        "Apoio a alunos com necessidades específicas",
-        "Promoção da inclusão e acessibilidade no ambiente acadêmico",
-        "Suporte pedagógico e recursos de acessibilidade"
+        "Presta apoio a alunos com necessidades específicas, promovendo a inclusão e acessibilidade no ambiente acadêmico. Os alunos podem obter suporte pedagógico, recursos de acessibilidade, entre outros."
       ]
     },
     {
@@ -197,9 +206,7 @@
         "nea.colatina@ifes.edu.br"
       ],
       "servicos": [
-        "Estudo e conscientização sobre questões ambientais",
-        "Ações de preservação, educação ambiental e sustentabilidade",
-        "Participação em palestras, projetos de pesquisa, atividades de campo e campanhas educativas"
+        "Dedica-se ao estudo e à conscientização sobre questões ambientais, promovendo ações de preservação, educação ambiental e sustentabilidade dentro e fora da instituição. Os alunos podem participar de palestras, projetos de pesquisa, atividades de campo e campanhas educativas, entre outros."
       ]
     },
     {
@@ -211,9 +218,7 @@
         "3723-1529"
       ],
       "servicos": [
-        "Foco em questões relacionadas aos estudos afro-brasileiros e indígenas",
-        "Promoção de ações de valorização da cultura afrodescendente e indígena",
-        "Participação em eventos, cursos, pesquisas"
+        "Foca em questões relacionadas aos estudos afro-brasileiros e indígenas, promovendo ações de valorização da cultura afrodescendente e indígena. Os alunos podem participar de eventos, cursos, pesquisas, entre outros."
       ]
     },
     {
@@ -222,9 +227,7 @@
         "nepgens.colatina@ifes.edu.br"
       ],
       "servicos": [
-        "Estudo e pesquisa sobre questões de gênero, sexualidade e diversidade",
-        "Promoção da igualdade de gênero e combate à discriminação e violência baseadas em orientação sexual e identidade de gênero",
-        "Participação em palestras, debates, grupos de estudo, projetos de pesquisa"
+        "Dedica-se ao estudo e à pesquisa sobre questões de gênero, sexualidade e diversidade, visando promover a igualdade de gênero e combater a discriminação e a violência baseadas em orientação sexual e identidade de gênero. Os alunos podem participar de palestras, debates, grupos de estudo, projetos de pesquisa, entre outros."
       ]
     },
     {
@@ -233,9 +236,7 @@
         "nri.colatina@ifes.edu.br"
       ],
       "servicos": [
-        "Estabelecimento de parcerias e intercâmbios acadêmicos com instituições estrangeiras",
-        "Apoio à mobilidade internacional de alunos e professores",
-        "Orientação sobre processos de intercâmbio, requisitos de visto, cursos no exterior"
+        "Estabelece parcerias e intercâmbios acadêmicos com instituições de ensino estrangeiras e apoia a mobilidade internacional de alunos e professores. Os alunos podem obter orientação sobre processos de intercâmbio, requisitos de visto, cursos oferecidos no exterior, entre outros serviços."
       ]
     },
     {
@@ -244,9 +245,7 @@
         "nte.col@ifes.edu.br"
       ],
       "servicos": [
-        "Promoção do uso de tecnologias educacionais no processo de ensino e aprendizagem",
-        "Suporte técnico e pedagógico aos professores e alunos",
-        "Utilização de plataformas digitais de apoio ao ensino e ferramentas digitais"
+        "Promove o uso de tecnologias educacionais no processo de ensino e aprendizagem, oferecendo suporte técnico e pedagógico aos professores e alunos. Os alunos podem utilizar plataformas digitais de apoio ao ensino, obter suporte técnico para o uso de ferramentas digitais, entre outros serviços."
       ]
     },
     {
@@ -254,10 +253,11 @@
       "email": [
         "incubadora.col@ifes.edu.br"
       ],
+      "telefone": [
+        "3723-1528"
+      ],
       "servicos": [
-        "Suporte técnico, mentoria, capacitação e infraestrutura para incubação de empreendimentos",
-        "Auxílio na elaboração de planos de negócios, identificação de oportunidades de mercado, acesso a financiamento",
-        "Networking com empreendedores e investidores, promoção de eventos, workshops e programas de aceleração"
+        "Oferece suporte técnico, mentoria, capacitação e infraestrutura para incubação de empreendimentos, auxiliando na elaboração de planos de negócios, identificação de oportunidades de mercado, acesso a financiamento e networking com empreendedores e investidores. A incubadora também promove eventos, workshops e programas de aceleração para impulsionar o ecossistema empreendedor local e contribuir para a inovação e o desenvolvimento econômico da região."
       ]
     },
     {
@@ -266,9 +266,7 @@
         "titasdarobotica@gmail.com"
       ],
       "servicos": [
-        "Estudo e desenvolvimento de sistemas robóticos",
-        "Oportunidade de projetar, construir e programar robôs para diferentes aplicações",
-        "Equipamento com uma variedade de plataformas de hardware e software, kits de robótica, sensores, controladores e ferramentas de programação"
+        "A Robótica é um espaço dedicado ao estudo e desenvolvimento de sistemas robóticos. Nele, os alunos têm a oportunidade de projetar, construir e programar robôs para diferentes aplicações, como competições de robótica, projetos de pesquisa e atividades de ensino. O laboratório está equipado com uma variedade de plataformas de hardware e software, incluindo kits de robótica, sensores, controladores e ferramentas de programação."
       ]
     }
   ],
